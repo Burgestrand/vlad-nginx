@@ -15,9 +15,12 @@ Gem::Specification.new do |s|
     "LICENSE"
   ]
   s.files = [
+    "Gemfile",
     "LICENSE",
+    "Rakefile",
     "VERSION",
-    "lib/vlad/nginx.rb"
+    "lib/vlad/nginx.rb",
+    "vlad-nginx.gemspec"
   ]
   s.homepage = %q{http://github.com/Burgestrand/vlad-nginx}
   s.require_paths = ["lib"]
