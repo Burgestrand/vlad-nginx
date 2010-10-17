@@ -1,9 +1,9 @@
 # Vlad the Deployer recipe for NGiNX.
 #
-# Author: Kim Burgestrand <http://burgestrand.se/>
+# Author: Kim Burgestrand <http://github.com/Burgestrand>
 # Date: 24th September 2010
-# License: X11 License (MIT License, same as Vlad)
-# URL: http://gist.github.com/613104
+# License: X11 License (MIT License, same as Vlad — details in LICENSE)
+# URL: http://github.com/Burgestrand/vlad-nginx
 require 'vlad'
 
 namespace :vlad do
