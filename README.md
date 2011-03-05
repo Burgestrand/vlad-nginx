@@ -1,6 +1,6 @@
 # Nginx for Vlad
 
-See [Vlad the Deployer] (rubyhitsquad.com/Vlad_the_Deployer.html)
+See [Vlad the Deployer](rubyhitsquad.com/Vlad_the_Deployer.html)
 
 ## Description
 
@@ -12,7 +12,7 @@ Vlad plugin for Nginx support.
 
 ## Usage
 
-See Vlad's [Getting Started] (hitsquad.rubyforge.org/vlad/doco/getting_started_txt.html) documentation.
+See Vlad's [Getting Started](hitsquad.rubyforge.org/vlad/doco/getting_started_txt.html) documentation.
 
 In your Rakefile, load Vlad with the :web => :nginx
 
@@ -29,8 +29,8 @@ In config/deploy.rb optionally add:
 
 ## Contributors
 
-* [Kim Burgestrand] (https://github.com/Burgestrand)
-* [Matt Smith] (https://github.com/matthewcalebsmith)
+* [Kim Burgestrand](https://github.com/Burgestrand)
+* [Matt Smith](https://github.com/matthewcalebsmith)
 
 ## License
 Copyright (c) 2010 Kim Burgestrand <http://github.com/Burgestrand>
